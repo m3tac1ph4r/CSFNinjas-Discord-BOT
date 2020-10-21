@@ -1,6 +1,7 @@
 # CSFNinjas-Discord-BOT
 
 I made this BOT for my team CSFNinjas. This BOT will store credentials for events. Soon I will add some more features like reminder.And if anyone want to contribute he/she is most welcome.
+
 Setup
 
   1. Clone the repo.
